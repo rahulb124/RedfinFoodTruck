@@ -1,15 +1,15 @@
-#Redfin Food Truck Finder
+# Redfin Food Truck Finder
 
-###Dependencies
+### Dependencies
 
 Developed using Python3
 
-*requests
+* requests
 
 	`pip3 install requests`
 
 
-###Running the Program
+### Running the Program
 	
 	`python3 show_open_food_trucks.py`
 
