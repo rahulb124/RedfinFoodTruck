@@ -11,6 +11,6 @@ Developed using Python3
 
 ### Running the Program
 	
-	`python3 show_open_food_trucks.py`
+	python3 show_open_food_trucks.py
 
 
